@@ -33,7 +33,7 @@ For more information on the technologies that power the Yukki Music Bot, check o
 
 > If you want to start working with Yukki Music Bot you can either fork or import repo .
 > The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
-> If you'd like to talk to us, join us on our [Telegram Group](https://t.me/YukkiSupport)
+> If you'd like to talk to us, join us on our [Telegram Group](https://t.me/by_support_of_bholenath)
 
 
 ## 🖇 Prerequisites
